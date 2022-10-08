@@ -6,6 +6,6 @@ for i in range(5):
 avg = sum(numbers)/len(numbers)
 count = 0
 
-for i in (numbers):
+for i in range(5):
     if numbers[i] > avg:
         count += 1
