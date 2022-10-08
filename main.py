@@ -8,4 +8,5 @@ count = 0
 
 for i in range(5):
     if numbers[i] > avg:
-        count += 1
+        print(numbers[i])
+print()
